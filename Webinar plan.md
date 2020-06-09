@@ -24,6 +24,8 @@ Topics -
             2. Why Hadoop? Real life problems that can be addressed with Hadoop. It's importance in AI
             
             3. Dealing with data the hadoop way. How would we do it without Hadoop.
+            
+            4. Big Data in Healthcare
 
 ### For learners of:
 1. IBM Data Science Profession Certitification
