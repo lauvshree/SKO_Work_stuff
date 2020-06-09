@@ -4,8 +4,10 @@
 2. Deep Learning
 3. Cognitive Analytics with IBM
 
-Topics -    1. One of the use cases from https://research.aimultiple.com/ai-usecases/
-
+Topics -    
+            
+            1. One of the use cases from https://research.aimultiple.com/ai-usecases/
+            
             2. Image recognition demo
             
             3. Watson Text to speech and speech to text demo - along with an insight of how it is implemented
@@ -19,6 +21,7 @@ Topics -    1. One of the use cases from https://research.aimultiple.com/ai-usec
 4. Hadoop Basics
 5. Hadoop Programming
 Topics - 
+
             1. Journey from flat file to RDBMS to Big Data
             
             2. Why Hadoop? Real life problems that can be addressed with Hadoop. It's importance in AI
@@ -37,6 +40,7 @@ Topics -
 7. NOS - Data Science
 
 Topics - 
+            
             1. Loading data from various sources. How to load data through web scraping
 
             2. Data cleaning and processing
