@@ -26,7 +26,7 @@ At the end of this reading, you will be able know
 
 7. Once you can see the contents of the project `DB0201EN - SQL for Data Science`, you can now work on it. 
 
-8. The main project is called the `master`. You always take care that the master is always in working order. You never make changes to the master without making it doubly sure that it will all work. 
+8. Every project you work on has a main copy which is called the `master`. You always take care that the master is always in working order. You never make changes to the master without making it doubly sure that it will all work. 
 
 9. Given below are two ways to work on the project. 
 
@@ -44,9 +44,24 @@ At the end of this reading, you will be able know
    c. Once you create a branch, any changes that you make and commit in the branch, stays with the branch unless you decide to merge the branch to the master. 
    d. If you want the changes in the branch to reflect in the master we merge the **branch** to the **master**
     
-   e. On the other hand, if you want to keep the branch aloof but make sure any changes to the master reflects on your branch, you do a merge from **master** to **branch**. 
-<img width="1440" alt="Screen Shot 2020-06-15 at 5 36 20 pm" src="https://user-images.githubusercontent.com/43871747/84655770-2ce8cf00-af2f-11ea-859b-daed568e484e.png">
+   e. On the other hand, if you want to keep the branch aloof but make sure any changes to the master reflects on your branch, you do a merge from **master** to **branch**. This is often referred to as `pull`.
    
+<img width="1440" alt="Screen Shot 2020-06-15 at 5 36 20 pm" src="https://user-images.githubusercontent.com/43871747/84655770-2ce8cf00-af2f-11ea-859b-daed568e484e.png">
+
+The structure of a project in GitLab is identical to a directory or folder structure on the desktop. This makes it easy to seamlessly navigate.
+
+
+### Cloning you repository 
+##### HTTPS Clone - 
+To create a clone of the master, you can use `git clone <httpslinkToRepository>`. In the following example https://gitlab.com/lavanyats/demoproject.git is the repository link. 
+
+git clone https://gitlab.com/lavanyats/demoproject.git
+
+To create a clone of a particular branch, you can use `git clone --branch <branchname> <httpslinkToRepository>`. In the following example https://gitlab.com/lavanyats/demoproject.git is the repository link and branch1 is the name of the branch. 
+
+git clone --branch branch1 https://gitlab.com/lavanyats/demoproject.git
+
+
     
 Working on the repository from you command window or terminal is not within the scope of this document.
 
