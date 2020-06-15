@@ -48,10 +48,12 @@ At the end of this reading, you will be able know
    
 <img width="1440" alt="Screen Shot 2020-06-15 at 5 36 20 pm" src="https://user-images.githubusercontent.com/43871747/84655770-2ce8cf00-af2f-11ea-859b-daed568e484e.png">
 
+   f. The owner of the repository may or may not enable conditional commit which will require any code that is pushed to the master to be reviewed before approving. When such permissions are set and you raise a merge request, it goes to the master as an open request which can be reviewed and approved. 
+
 The structure of a project in GitLab is identical to a directory or folder structure on the desktop. This makes it easy to seamlessly navigate.
 
 
-### Cloning you repository 
+### Cloning you repository on your computer
 ##### HTTPS Clone - 
 To create a clone of the master, you can use `git clone <httpslinkToRepository>`. In the following example https://gitlab.com/lavanyats/demoproject.git is the repository link. 
 
@@ -61,9 +63,6 @@ To create a clone of a particular branch, you can use `git clone --branch <branc
 
 git clone --branch branch1 https://gitlab.com/lavanyats/demoproject.git
 
-
-    
-Working on the repository from you command window or terminal is not within the scope of this document.
 
 
 
