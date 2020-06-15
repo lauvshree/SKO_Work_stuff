@@ -11,22 +11,29 @@ At the end of this reading, you will be able know
 
 1. Create a GitLab account with your SkillUp email.
 
-2. Request to be added as a SN Author by clicking on the big red button “Become a Skills Network Author” on https://skills.network/authoring/ and filling out the form
-![image006](https://user-images.githubusercontent.com/43871747/84617033-626bc900-aeeb-11ea-91fc-08478849be40.jpg)
+2. Request to be added as a SN Author by going to https://skills.network/authoring/  and clicking on the big red button “Become a Skills Network Author”
 ![image005](https://user-images.githubusercontent.com/43871747/84617036-65ff5000-aeeb-11ea-9d10-199719635f50.jpg)
 
+3. This takes you to a page where you can fill out a form giving all the details requested.
+![image006](https://user-images.githubusercontent.com/43871747/84617033-626bc900-aeeb-11ea-91fc-08478849be40.jpg)
 
-3. Once this process goes through you should be added to be added to the DB0201EN (SQL for Data Science) course project on the IBMSkillsNetwork.
 
-4. Verify the same by going to this [link](https://gitlab.com/ibm/skills-network/courses) and under the listed `Subgroups and Projects` choose `DB0201EN - SQL for Data Science`
+4. Once this process goes through you should be added to be added to the DB0201EN (SQL for Data Science) course project on the IBMSkillsNetwork.
 
-5. If you don't see any `Subgroups and Projects`, you are in all probabilities not added as an author in the skills network. Please repeat step 2 and/or follow-up with IBM.
+5. Verify the same by going to this [link](https://gitlab.com/ibm/skills-network/courses) and under the listed `Subgroups and Projects` choose `DB0201EN - SQL for Data Science`
 
-6. Once you can see the contents of the project `DB0201EN - SQL for Data Science`, you can now work on it. 
+6. If you don't see any `Subgroups and Projects`, you are in all probabilities not added as an author in the skills network. Please repeat step 2 and/or follow-up with IBM.
 
-7. There are two ways to work on the project. 
-    a. You can choose to fork the repository. This will create your own mirror image of the repository.
+7. Once you can see the contents of the project `DB0201EN - SQL for Data Science`, you can now work on it. 
+
+8. There are two ways to work on the project. 
+    a. You can choose to fork the repository, by clicking `Fork` on the top right corner of the page here under. This will create your own mirror image of the repository in your namespace (under you login). The mirror image comes with the original repository and its branches. 
+    
     ![image](https://user-images.githubusercontent.com/43871747/84616919-fd17d800-aeea-11ea-97b2-bc49b3d3b8f2.png)
+    
+    b. This approach is often useful if you want to make changes on top of what exists but have less or no need to push the changes you have done back to the source you copied from. 
+    
+    
     
 
 
