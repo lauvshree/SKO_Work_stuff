@@ -17,7 +17,7 @@ At the end of this reading, you will be able know
 
 4. Verify the same by going to this [link](https://gitlab.com/ibm/skills-network/courses) and under the listed `Subgroups and Projects` choose `DB0201EN - SQL for Data Science`
 
-5.If you don't see any `Subgroups and Projects`, you are in all probabilities not added as an author in the skills network. Please repeat step 2 and/or follow-up with IBM.
+5. If you don't see any `Subgroups and Projects`, you are in all probabilities not added as an author in the skills network. Please repeat step 2 and/or follow-up with IBM.
 
 6. Once you can see the contents of the project `DB0201EN - SQL for Data Science`, you can now work on it. 
 
